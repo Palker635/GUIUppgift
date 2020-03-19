@@ -5,12 +5,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.io.*;
 
-/**
- * GUI
- * 2020-03-12
- * Marcus Billman
- */
-
 public class GUI {
     private JFrame frame;
     private JPanel panel;
